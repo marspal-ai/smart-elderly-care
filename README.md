@@ -61,11 +61,12 @@ https://zhyl.marspal.com/
 #### 系统功能
 
 1.建设清单
+<img width="1313" height="4836" alt="image" src="https://github.com/user-attachments/assets/01f7b68a-d0d3-403d-9cf2-a10c80919a5c" />
+
+2.系统截图
 <img width="830" height="414" alt="image" src="https://github.com/user-attachments/assets/daa7dba1-b9a4-4614-b2de-885f28c84e41" />
 
 
-2.系统截图
-<img width="1313" height="4836" alt="image" src="https://github.com/user-attachments/assets/01f7b68a-d0d3-403d-9cf2-a10c80919a5c" />
 
 <img width="830" height="418" alt="image" src="https://github.com/user-attachments/assets/3cafed73-8e8e-4e51-a507-0cd6e3002a8b" />
 
